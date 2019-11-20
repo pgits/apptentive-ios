@@ -17,11 +17,11 @@ let package = Package(
     targets: [
         .target(
             name: "apptentive-ios",
-            path: "Apptentive",
-            dependencies: []),
+            dependencies: [],
+            path: "Apptentive"),
         .testTarget(
             name: "ApptentiveTests",
-            path: "Apptentive",
-            dependencies: ["apptentive-ios"]),
+            dependencies: ["apptentive-ios"],
+            path: "Apptentive"),
     ]
 )
