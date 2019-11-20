@@ -1,6 +1,6 @@
 # Apptentive iOS SDK
 
-The Apptentive iOS SDK provides a simple and powerful channel to communicate in-app with your customers.
+The Apptentive iOS SDK is copied and added a Package.swift with a tag of 5.2.8 provides a simple and powerful channel to communicate in-app with your customers.
 
 Use Apptentive features to improve your app's App Store ratings, collect and respond to customer feedback, show surveys at specific points within your app, and more.
 

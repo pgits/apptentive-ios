@@ -1,5 +1,6 @@
 // swift-tools-version:5.1
 import PackageDescription
+//using the tag of 5.2.8
 
 let package = Package(
     name: "apptentive-ios",
@@ -24,4 +25,5 @@ let package = Package(
             path: "Apptentive",
             dependencies: ["apptentive-ios"]),
     ]
+
 )
