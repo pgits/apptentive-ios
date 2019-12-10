@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+//added ApptentiveAssert.h here to remove build issue.
 #import ApptentiveAssert.h
 
 NS_ASSUME_NONNULL_BEGIN
